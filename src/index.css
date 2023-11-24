@@ -10,3 +10,15 @@ body {
 .App {
   text-align: center;
 }
+
+.comments, iframe, .firstRemove {
+  margin-top: 20px;
+}
+
+.secondDownVotes, .seconedRemove {
+  margin-bottom: 20px;
+}
+
+.sort {
+  margin-top: 10px;
+}
